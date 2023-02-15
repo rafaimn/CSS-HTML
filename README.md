@@ -14,3 +14,14 @@ In these projects, you will find examples of my work with:
 - **Accessibility**: I have considered accessibility best practices in my HTML and CSS code to make the web pages usable for as many people as possible.
 
 I hope that you find these projects to be interesting and informative. If you have any questions or feedback, please don't hesitate to reach out to me.
+
+# Preview
+
+<div>
+  <img src = "https://github.com/rafaimn/CSS-HTML/blob/main/Media/antique-cafe.png">
+  <img src ="https://github.com/rafaimn/CSS-HTML/blob/main/Media/balance-sheet.png">
+  <img src ="https://github.com/rafaimn/CSS-HTML/blob/main/Media/nutrition-facts.png">
+  <img src ="https://github.com/rafaimn/CSS-HTML/blob/main/Media/registration-form.png">
+  <img src ="https://github.com/rafaimn/CSS-HTML/blob/main/Media/color-markers.png">
+  <img src ="https://github.com/rafaimn/CSS-HTML/blob/main/Media/photo-gallery.png">
+</div>
